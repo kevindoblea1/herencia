@@ -1,0 +1,14 @@
+# Ignorar archivos y carpetas del entorno de desarrollo
+.vs/
+*.user
+*.suo
+*.log
+*.tmp
+*.bak
+*.vsidx
+*.db
+
+# Archivos de compilación
+bin/
+obj/
+
